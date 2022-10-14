@@ -265,17 +265,18 @@
             <div class="modal-body">
                 <img src="img/logo_domosecu_png-109307-100x100.png" height="100px"  alt="">
               <p>
-              Domo-Secu est une marque commerciale de QUALITAT LTD qui fait partie du groupe QUALITAT. 
-              Groupe international de prestations de service, de vente, marketing et distribution aux 
-              entreprises. Le site domo-secu.com est destiné aux commerçants spécialisés dans la 
-              distribution de produits informatiques, électriques et de vidéosurveillance dans 
-              le cadre de leurs activités professionnelles.
-              <br> <br> 
-
-              <a href="https://domo-secu.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">
-                                Visiter le site</a>
-              <a href="" class="btn btn-primary py-md-3 px-md-5 animated slideInRight">
-                                Devenir Franshise</a>
+                  Domo-Secu est une marque commerciale de QUALITAT LTD qui fait partie du groupe QUALITAT.
+                  Groupe international de prestations de service, de vente, marketing et distribution aux
+                  entreprises. Le site domo-secu.com est destiné aux commerçants spécialisés dans la
+                  distribution de produits informatiques, électriques et de vidéosurveillance dans
+                  le cadre de leurs activités professionnelles.
+                  <br> <br>
+                  <a href="https://domo-secu.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">
+                      Visiter le site
+                  </a>
+                  <a href="devenir-franchise.html" class="btn btn-primary py-md-3 px-md-5 animated slideInRight">
+                      Devenir Franshise
+                  </a>
               </p>
             </div>
             

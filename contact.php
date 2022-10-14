@@ -88,7 +88,7 @@
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
                     <h1 class="display-4 text-white animated zoomIn">Contactez-nous</h1>
-                    <a href="" class="h5 text-white">Accueil</a>
+                    <a href="index.php" class="h5 text-white">Accueil</a>
                     <i class="far fa-circle text-white px-2"></i>
                     <a href="" class="h5 text-white">Contact</a>
                 </div>
@@ -180,9 +180,7 @@
             </div>
         </div>
     </div>
-    <!-- Facts Start -->
-
-
+    <!-- Facts end -->
 
     <!-- Contact Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
@@ -276,7 +274,6 @@
     </div>
     <!-- Contact End -->
 
-
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
@@ -358,10 +355,8 @@
     </div>
     <!-- Footer End -->
 
-
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
-
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
